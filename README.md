@@ -1,2 +1,5 @@
-# desafio-git-rub-primeiro-reposit-rio
-desafio de projeto git/git rub primeiro
+#  Repositorio do desafio de projeto sobre Git/Github da dio 
+desafio de projeto git/gitrub 
+
+## Links Úteis
+[Sintaxe Básica Markdow](https://markdown.net.br/sintaxe-basica/)
